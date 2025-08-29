@@ -4,7 +4,7 @@ title: Rahmenbedingungen der Soziotherapie
 Repository: https://git.jochen-hanisch.de/Professionelle-Praxis/Professionelle-Praxis
 created: 2025-08-30
 updated: 2025-08-30
-publish: false
+publish: true
 tags:
   - Soziotherapie
   - Kooperation
@@ -12,10 +12,10 @@ tags:
   - Rahmenbedingungen
   - Psychotherapie
   - G-BA
-published:
+published: 2025-08-30
 ---
 
-created: 30.8.2025 | updated: 30.8.2025 | published: | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 30.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/Professionelle-Praxis): 30.8.2025 | published: 30.8.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 **Rahmenbedingungen der Soziotherapie**
 
