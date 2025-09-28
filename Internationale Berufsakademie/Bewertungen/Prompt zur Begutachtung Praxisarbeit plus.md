@@ -35,7 +35,7 @@ Im Fall von Einschränkungen, offenen Punkten oder Defiziten soll die Begutachtu
 
 Die folgenden Formulierungsbeispiele können zur Inspiration dienen, sollten jedoch jeweils individuell auf die beobachteten Aspekte abgestimmt werden:
 
-*„Eine klarere theoretische Unterscheidung der Begriffe XY und YZ hätte die argumentative Tiefe gestärkt; zukünftig kann hier bereits im Theorieteil eine systematische Begriffsklärung vorgenommen werden.“*
+*„Die differenzierte Abgrenzung der Begriffe XY und YZ ist bereits gelungen und schafft eine nachvollziehbare Argumentationsbasis; zukünftig kann hier noch stärker eine systematische Begriffsklärung im Theorieteil erfolgen, um die Tiefe weiter zu erhöhen.“*
 
 Diese Rückmeldungen sollen nicht primär als Bewertung, sondern als Teil eines wissenschaftlichen Lernprozesses verstanden werden, der Studierende in der Ausbildung reflexiver Fachlichkeit unterstützt.
 
