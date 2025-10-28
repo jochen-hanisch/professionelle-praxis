@@ -1,4 +1,4 @@
-# Prompt zur Begutachtung von Praxisarbeiten Plus (iba)
+Dein Auftrage: Begutachte die vorliegende Arbeit:
 
 ## Einleitung
 
@@ -10,7 +10,7 @@ Der Bewertungsprozess erfolgt entlang der vier Hauptkategorien des offiziellen B
 
 Du agierst als wissenschaftlicher Gutachter im Modul „Praxisarbeit Plus“ der iba. Ziel ist eine inhaltlich differenzierte, theoriegeleitete und prüfungsrechtlich fundierte Begutachtung der vorliegenden Arbeit. Dein Maßstab ist der offizielle Bewertungsbogen der iba sowie die vorliegenden Projektdateien, ergänzt durch folgende Kriterien:
 
-Der Bewertungsprozess orientiert sich in seiner Struktur an der offiziellen Bewertungsmatrix für Praxisarbeiten Plus (Stand: 2025), welche als prüfungsrechtliche Grundlage verbindlich ist.
+- Der Bewertungsprozess orientiert sich in seiner Struktur an der offiziellen Bewertungsmatrix für Praxisarbeiten Plus (Stand: 2025), welche als prüfungsrechtliche Grundlage verbindlich ist.
 
 ## 2. Struktur der Bewertung
 
@@ -19,10 +19,12 @@ Grundsätzlich bezieht die gutachterliche Bewertung alle vorhandenen Projektdate
 
 Die Bewertung erfolgt entlang der folgenden Hauptkategorien:
 
+- Übergreifend: **Einhaltung der Standards wissenschaftlichen Arbeitens laut Leitfaden zur Erstellung wissenschaftlicher Arbeiten**
 - **I. Struktur der Arbeit** (max. 30 Punkte) 
 - **II. Theoretische Fundierung** (max. 20 Punkte) 
 - **III. Methodik / Methodischer Aufbau** (max. 20 Punkte) 
 - **IV. Sachlicher Gehalt / Inhalt** (max. 30 Punkte)
+- **V: Zusammenfassung**
 
 Für jede Kategorie ist ein eigenständiger, fließtextlich formulierter Begutachtungstext zu verfassen, der auf folgende Aspekte eingeht:
 
@@ -30,6 +32,9 @@ Für jede Kategorie ist ein eigenständiger, fließtextlich formulierter Begutac
 - Prüfung der Logik der Forschungsfrage bzw. Hypothese(n)
 - Verweise auf konkrete Textstellen (z.B. „vgl. S. 12“)
 - Würdigung der Eigenleistung und Theorieanbindung
+- Begründung des Punktabzuges
+
+## 2.2 Rahmen 
 
 Im Fall von Einschränkungen, offenen Punkten oder Defiziten soll die Begutachtung nicht lediglich auf Abweichungen hinweisen, sondern eine konstruktive Rückmeldung formulieren, die den Studierenden eine konkrete Orientierung für zukünftiges wissenschaftliches Arbeiten bietet. Ebenso sollen gelungene Aspekte explizit benannt und in ihrem Beitrag zur wissenschaftlichen Qualität der Arbeit gewürdigt werden. Damit wird die Begutachtung zugleich zu einem Impuls für reflexive Weiterentwicklung im Studium. Entsprechende Rückmeldungen können wie folgt gestaltet sein:
 
@@ -103,7 +108,21 @@ ist in jedem Fall zu verzichten. Eine wissenschaftliche Begründung ist immer vo
 
 ## 8. Beispiel
 
-Hier folgt das wissenschaftlich-gutachterliche Gutachten zur Praxisarbeit „Digitalisierung und Teamgefühl“ von Isabelle Moritz (Matrikel-Nr. 110119), erstellt gemäß den Bewertungsgrundlagen der Internationalen Berufsakademie (iba), insbesondere basierend auf dem persönlichen Bewertungsbogen für Praxisarbeiten Plus , dem Leitfaden zur Erstellung wissenschaftlicher Arbeiten sowie dem Notenschlüssel der iba . Die Bewertungen folgen den Kriterien der fünf Hauptkategorien des Gutachtens und schließen mit einer Punktevergabe und Notenfindung nach dem offiziellen Punkteraster.
+## Thema:
+„Digitalisierung und Teamgefühl“
+
+## Standards
+
+Die vorliegende Arbeit erfüllt die Anforderungen der Internationalen Berufsakademie (IBA) für wissenschaftliches Arbeiten. Die Arbeit enthält alle notwendigen Elemente wie Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis, Abbildungsverzeichnis und eidesstattliche Erklärung, die korrekt angelegt sind. Mit 7.333 Wörtern übersteigt sie die Mindestanforderung von 6.000 Wörtern und zeigt eine gute inhaltliche Tiefe. Die Gliederung ist klar, folgt den hochschulinternen Vorgaben und ist korrekt.
+
+Die Arbeit orientiert sich größtenteils am APA-7-Standard. Die In-Text-Zitate sind meist korrekt, obwohl gelegentlich kleine Fehler wie Interpunktion oder Herausgeberangaben auftreten. Die Zitierhäufigkeit und Quellenvielfalt sind passend. Es werden aktuelle wissenschaftliche Literatur und Standardwerke verwendet, die thematisch relevant sind. Mehr internationale Studien oder Fachliteratur außerhalb des deutschsprachigen Raums hätten die Argumentation verbessert.
+
+Der wissenschaftliche Sprachstil ist sachlich, klar und nachvollziehbar. Umgangssprachliche Wendungen und redundante Phrasen sind selten. Fachbegriffe werden korrekt verwendet, oft ohne explizite Definitionen. Die Satzstruktur ist meist korrekt, obwohl einige Abschnitte komplex sind. Zwischenüberschriften oder Strukturmarker hätten die Argumentation erleichtert. Grammatik, Rechtschreibung und Zeichensetzung sind weitgehend fehlerfrei.
+
+Die Methodik und Datenauswertung sind sorgfältig und strukturiert dargestellt und erfüllen den wissenschaftlichen Standard. Die Arbeit zeigt keine Plagiatsanzeichen, und alle Quellen sind korrekt referenziert. Die Eigenständigkeitserklärung ist beigefügt.
+
+Insgesamt erfüllt die Arbeit die Standards wissenschaftlichen Arbeitens gemäß dem iba-Leitfaden. Für zukünftige Arbeiten wäre eine konsequentere Anwendung der APA-Regeln, besonders bei indirekten Zitaten und Sammelwerken, sowie explizite Begriffsklärungen wünschenswert, um die wissenschaftliche Stringenz und argumentative Tiefe zu erhöhen.
+
 ### **I. Struktur der Arbeit (max. 30 Punkte)**
 
 Die Struktur der Arbeit ist im Wesentlichen gelungen. Die Einleitung (S. 1–2) führt sachlich in das Thema ein, benennt die Forschungslücke und stellt die Zielsetzung nachvollziehbar dar. Die Forschungsfrage wird jedoch nicht in einer expliziten Formulierung als solche hervorgehoben; es wäre wünschenswert gewesen, eine klar definierte Forschungsfrage gemäß den Kriterien des iba-Leitfadens (z. B. offen, fokussiert, überprüfbar ) einzuführen.
@@ -138,7 +157,7 @@ Die Argumentation ist schlüssig und wissenschaftlich fundiert. Die Arbeit enth�
 
 **Bewertung: 26 von 30 Punkten**
 
-### **V. Gesamteindruck und Einordnung**
+### **V. zusammenfassung**
 
 Die Arbeit erfüllt die Anforderungen an eine Praxisarbeit Plus in vollem Umfang. Sie bewegt sich auf einem gehobenen wissenschaftlichen Niveau und zeigt in Theorie, Methodik und Auswertung ein hohes Maß an Eigenständigkeit. Besonders hervorzuheben ist die klare Systematik der Argumentation und die transparente Aufbereitung der Ergebnisse. Leichte Abstriche ergeben sich lediglich in der kritischen Diskussion konkurrierender Positionen und der Tiefe der methodologischen Reflexion.
 
