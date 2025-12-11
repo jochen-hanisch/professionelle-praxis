@@ -9,7 +9,7 @@ tags:
 published:
 ---
 
-created: 28.10.2025 | updated: 28.10.2025 | published: | [Austausch](https://github.com/jochen-hanisch/professionelle-praxis/discussions) | [[Hinweise]]
+created: 28.10.2025 | updated: 28.10.2025 | published: | [Austausch](https://github.com/jochen-hanisch/professionelle-praxis/discussions) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 **Therapiebegleithund – Konzeptgrundlage**
 

@@ -38,7 +38,7 @@ published:
 
 ---
 
-created: 1.10.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/Professionelle-Praxis/): 16.8.2025 | published: | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 1.10.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/Professionelle-Praxis/): 16.8.2025 | published: | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 **Der Begriff der Organisation**
 

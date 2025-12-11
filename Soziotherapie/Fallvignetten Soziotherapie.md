@@ -17,7 +17,7 @@ tags:
 published: 2025-08-30
 ---
 
-created: 30.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/Professionelle-Praxis): 30.8.2025 | published: 30.8.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 30.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/Professionelle-Praxis): 30.8.2025 | published: 30.8.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 **Fallvignetten zur Soziotherapie**
 
