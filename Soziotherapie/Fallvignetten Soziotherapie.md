@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Fallvignetten zur Soziotherapie
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/Professionelle-Praxis
+Repository: https://github.com/jochen-hanisch/professionelle-praxis
+Discussion: https://github.com/jochen-hanisch/professionelle-praxis/discussions
+Publication:
 created: 2025-08-30
 updated: 2025-08-30
 publish: true
+published: 2025-08-30
 tags:
   - Soziotherapie
   - Fallvignetten
@@ -14,10 +17,9 @@ tags:
   - Psychiatrie
   - Psychotherapie
   - Versorgung
-published: 2025-08-30
 ---
 
-created: 30.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/Professionelle-Praxis): 30.8.2025 | published: 30.8.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
+created: 30.08.2025 | [updated](https://github.com/jochen-hanisch/professionelle-praxis): 30.08.2025 | [published](): 30.08.2025 | [Austausch](https://github.com/jochen-hanisch/professionelle-praxis/discussions) | [[Hinweise]]
 
 **Fallvignetten zur Soziotherapie**
 
