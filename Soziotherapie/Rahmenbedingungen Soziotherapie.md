@@ -8,6 +8,10 @@ created: 2025-08-30
 updated: 2025-08-30
 publish: true
 published: 2025-08-30
+status:
+priority:
+project:
+due:
 tags:
   - Soziotherapie
   - Kooperation
